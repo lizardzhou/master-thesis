@@ -1,5 +1,5 @@
 function [avgTauAll, avgRelVelAll, avgArray] = calcAvgHeightAllDiam(maxNumIter, traj, hLow, hHigh)
-% Claculate mass flow-averaged residence time and relative velocity
+% Calculate mass flow-averaged residence time and relative velocity
 % between hLow and hHigh for all diameters
 % Based on mass-flow average of values from calcAvgHeight.m
 % Input:
